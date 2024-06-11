@@ -1,4 +1,4 @@
-# README: Medaire: Unexpected Fainting Events
+# Medaire: Unexpected Fainting Events
 ## Project Overview
 
 This project, conducted by the ASU Team, aims to understand the causes and patterns of fainting incidents during flights. The goal is to enhance MedAire's medical guidance for airlines, improve passenger experience, and avoid unnecessary flight diversions.
